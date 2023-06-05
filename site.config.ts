@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'zangye03的博客',
   domain: 'https://www.notion.so/Personal-Home-d963380de7fa4ab78ff22dba895a4f1e',
   author: 'Travis Fischer',
 
